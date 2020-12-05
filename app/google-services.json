@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66109223717",
+    "project_id": "kalkulator-c9bab",
+    "storage_bucket": "kalkulator-c9bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66109223717:android:fbb71b5612f99e2a0d60cc",
+        "android_client_info": {
+          "package_name": "com.example.kalkulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66109223717-bnvsn1dbtslt9f88iv9pv3rbk2g6phko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxOI17VqANDVz_-ZphlDZlcOam4nb9CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66109223717-bnvsn1dbtslt9f88iv9pv3rbk2g6phko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
